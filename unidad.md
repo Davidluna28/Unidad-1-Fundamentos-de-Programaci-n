@@ -6,7 +6,7 @@
 <h1 align="center">Universidad Nacional de Loja</h1>
 <p align="center">
   <b>Facultad de Energía, las Industrias y los Recursos Naturales no Renovables</b><br>
-  <span>💻 Carrera de Computación</span>
+  <span> Carrera de Computación</span> 💻
 </p>
 
 <p align="center">
