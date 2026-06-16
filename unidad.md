@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Sello_UNL.png" alt="Escudo UNL" width="150">
+  <img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/31180891-5d02-4d67-bc77-633e94bd7d96" />
+
 </p>
 
 <h1 align="center">Universidad Nacional de Loja</h1>
@@ -23,19 +24,5 @@
 
 ---
 
-### 🛠️ Tecnologías Utilizadas en esta Materia
 
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</p>
 
----
-
-### 📂 Contenido del Repositorio
-
-```bash
-├── 📁 Unidad_1/           # Fundamentos y lógica básica
-├── 📁 Unidad_2/           # Estructuras de control y modularidad
-└── 📁 Unidad_3/           # Programación orientada a objetos / Avanzado
